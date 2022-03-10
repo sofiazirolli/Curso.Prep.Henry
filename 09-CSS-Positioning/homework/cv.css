@@ -1,0 +1,43 @@
+body {
+  background: #769459;
+  margin: 95px 0 100px 0;
+  color: #FFFFFF;
+  font-family: font-family: Verdana, Arial, sans-serif;
+  font-size: 20px;
+}
+
+#header {
+  text-align: center;
+  font-size: 70px;
+}
+
+h1 {
+	color: #9AC372;	
+}
+
+h2 {
+	color: #9AC372;
+}
+#izq {
+  text-align: left;
+  position: fixed;
+  margin-left: 40px;
+}
+
+#der {
+  text-align: right;
+  position: absolute;
+  margin-right: 60px;
+  margin-left: 700px;
+  margin-top: 120px;
+
+}
+
+img {
+	position: absolute;
+	margin-top: 0px;
+	margin-left: 1180px;
+    margin-right: 0px;
+	width: 200px;
+}
+
